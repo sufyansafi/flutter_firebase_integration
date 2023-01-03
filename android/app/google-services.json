@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252923036559",
+    "project_id": "integration-firebase-f62e5",
+    "storage_bucket": "integration-firebase-f62e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252923036559:android:05251d93f6a3aeba91c1fa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_integration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252923036559-vpp5ppagu7am157k549rul9ntppfdehj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5n04LW8L788HQkhCPt_n8CPZ9lbh3IU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252923036559-vpp5ppagu7am157k549rul9ntppfdehj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
